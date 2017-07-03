@@ -1632,7 +1632,7 @@ P2035	LinkedIn_personal_profile_URL
 P2036	African_Plant_Database
 P2037	GitHub_username
 P2038	ResearchGate_person_ID
-P2040	CITES_Species+_ID
+P2040	CITES_Species_ID
 P2041	National_Gallery_of_Victoria_artist_ID
 P2042	Artsy_artist_ID
 P2043	length
@@ -2394,7 +2394,7 @@ P2843	Benezit_ID
 P2844	incidence
 P2845	RAN_ID
 P2846	wheelchair_accessibility
-P2847	Google+_ID
+P2847	GooglePlus_ID
 P2848	Wi_Fi
 P2849	produced_by
 P2850	iTunes_artist_ID
