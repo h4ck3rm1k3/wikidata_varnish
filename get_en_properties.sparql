@@ -1,0 +1,6 @@
+#Properties in english
+SELECT ?pred ?predLabel WHERE {
+  #?pred rdfs:label ?item.
+  ?pred rdf:type	wikibase:Property.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
