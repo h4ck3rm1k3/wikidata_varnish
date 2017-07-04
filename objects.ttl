@@ -28,13 +28,4 @@
                               foaf:homepage  <www.wikidata.org/>
                             ] .
         ## rename item
-        :rename a owl:ObjectProperty .
-        
-        ## import a set of renames
-        :import a owl:ObjectProperty .
-        
-        ## reference an object
-        :object a owl:Thing, owl:NamedIndividual.
-        
-        # dummy used to reference the renamed objects
-        :done a void:Linkset.
+        ## all names here are from the user space asserted.
