@@ -35,3 +35,6 @@
         
         ## reference an object
         :object a owl:Thing, owl:NamedIndividual.
+        
+        # dummy used to reference the renamed objects
+        :done a void:Linkset.
