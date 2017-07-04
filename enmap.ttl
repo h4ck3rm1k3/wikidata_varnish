@@ -16,7 +16,7 @@
 @prefix foaf:  <http://xmlns.com/foaf/0.1/> .
 @prefix enmap: <enmap.ttl#>.
 
-<>      a                   void:Linkset ;
+enmap:ontology      a                   void:Linkset ;
         dcterms:created     "2017-07-02"^^xsd:date ;
         dcterms:creator     "James Michael DuPont" ;
         dcterms:license     <http://unlicense.org> ;
@@ -24,7 +24,7 @@
         void:linkPredicate  owl:sameAs ;
         void:target         [ a              void:Dataset ;
                               rdfs:label     "Wikidata" ;
-                              foaf:homepage  <www.wikidata.org/>
+                              foaf:homepage  <http://www.wikidata.org/>
                             ] .
 
 
