@@ -1,4 +1,4 @@
-#https://raw.githubusercontent.com/h4ck3rm1k3/wikidata_varnish/master/varnish.ttl
+#https://raw.githubusercontent.com/h4ck3rm1k3/wikidata_varnish/master/objects.ttl
 
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix grddl: <http://www.w3.org/2003/g/data-view#> .
@@ -15,7 +15,7 @@
 @prefix wd: <http://www.wikidata.org/entity/>.
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix foaf:  <http://xmlns.com/foaf/0.1/> .
-@prefix enmap: <enmap.ttl#>.
+@prefix enmap: <https://raw.githubusercontent.com/h4ck3rm1k3/wikidata_varnish/master/objects.ttl#>.
 
 <>      a                   void:Linkset ;
         dcterms:created     "2017-07-04"^^xsd:date ;
