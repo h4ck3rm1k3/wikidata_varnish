@@ -1,4 +1,4 @@
-
+#https://raw.githubusercontent.com/h4ck3rm1k3/wikidata_varnish/master/enent.ttl#
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix grddl: <http://www.w3.org/2003/g/data-view#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -14,7 +14,7 @@
 @prefix wd: <http://www.wikidata.org/entity/>.
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix foaf:  <http://xmlns.com/foaf/0.1/> .
-@prefix enent: <enent.ttl#>.
+@prefix enent: <https://raw.githubusercontent.com/h4ck3rm1k3/wikidata_varnish/master/enent.ttl#>.
 
 enent:ontology      a                   void:Linkset ;
         dcterms:created     "2017-07-02"^^xsd:date ;
