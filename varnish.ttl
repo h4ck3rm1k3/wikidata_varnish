@@ -1,4 +1,4 @@
-#https://raw.githubusercontent.com/h4ck3rm1k3/wikidata_varnish/master/enent.ttl#
+#https://raw.githubusercontent.com/h4ck3rm1k3/wikidata_varnish/master/varnish.ttl#
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
