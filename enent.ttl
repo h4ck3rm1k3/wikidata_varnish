@@ -27,4 +27,5 @@ enent:ontology      a                   void:Linkset ;
                               foaf:homepage  <http://www.wikidata.org/>
                             ] .
 	enent:cat owl:sameAs wd:Q146.
+	enent:country owl:sameAs wd:Q6256
 	
